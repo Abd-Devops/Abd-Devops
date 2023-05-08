@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abd-Devops
+- 👋 Hi, I’m Abdul Hameed A
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps
+- 🌱 I’m currently working as DevOps lead
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me ...
 
 <!---
